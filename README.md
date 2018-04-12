@@ -1,3 +1,5 @@
 # supremeBOT
 
-help
+python script to purchase supreme.
+
+Dependency: selenium
